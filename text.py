@@ -5,7 +5,6 @@ import os
 import base64
 from PyPDF2 import PdfReader
 import docx2txt
-!pip install gtts
 
 # Dictionary to map language codes to full names
 LANGUAGES = {
